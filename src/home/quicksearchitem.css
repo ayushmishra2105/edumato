@@ -1,0 +1,54 @@
+.qsearch {
+  margin-top: 20px;
+  justify-content: center;
+}
+.qheading {
+  color: #192f60;
+  font-size: 30px;
+  font-weight: bolder;
+}
+.qtext {
+  color: grey;
+  font-size: 20px;
+  margin-top: 6px;
+}
+.card {
+  margin-top: 20px;
+  text-align: center;
+  height: 300px;
+  width: 250px;
+  border: 2px solid grey;
+  border-radius: 10px;
+  background-color: #f8efd4;
+  box-shadow: 6px 10px 15px black;
+  float: left;
+  margin-right: 30px;
+  margin-bottom: 30px;
+}
+.cimage {
+  height: 200px;
+  width: 249px;
+  border-radius: 10px 10px 0 0;
+}
+.ctitle {
+  font-weight: bold;
+  font-size: 25px;
+  margin-top: 3px;
+  font-family: "san-serif";
+  color: black;
+}
+.ctext {
+  margin-top: 3px;
+  text-align: center;
+  width: 250px;
+  font-size: 17px;
+  font-weight: 500;
+  color: black;
+}
+.card:hover {
+  transform: scale(1.05);
+}
+.tilecontainer {
+  text-align: center;
+  justify-content: center;
+}

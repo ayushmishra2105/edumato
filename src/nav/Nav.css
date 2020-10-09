@@ -1,0 +1,82 @@
+@media only screen and(max-width:600px) {
+  .navbar-create-account-holder {
+    padding: 15px;
+    margin-top: 10px;
+
+    margin-right: 20px;
+    font-size: 16px;
+    float: left;
+    border: solid;
+    border-width: 1.5px;
+    border-color: white;
+    color: white;
+    border-radius: 5%;
+  }
+  .navbar-login-holder {
+    margin-top: 25px;
+    color: white;
+    float: left;
+    margin-right: 20px;
+    font-size: 16px;
+  }
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.navbar-logo-holder {
+  background-color: white;
+  float: left;
+  text-align: center;
+  color: red;
+  font-size: 30px;
+  font-weight: bold;
+  margin-left: 30px;
+  margin-top: 3px;
+
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 23px;
+  padding-right: 23px;
+  border-radius: 50%;
+}
+.navlogo {
+  color: red;
+}
+
+.navbar {
+  background-color: #726a95;
+  height: 80px;
+}
+
+.navbar-right {
+  position: relative;
+  float: right;
+}
+
+.navbar-create-account-holder {
+  padding: 15px;
+  margin-top: 10px;
+  font-weight: bold;
+
+  margin-right: 50px;
+  font-size: 16px;
+  float: left;
+  border: solid;
+  border-width: 1.5px;
+  border-color: white;
+  color: white;
+  border-radius: 5%;
+}
+.navbar-login-holder {
+  font-weight: bold;
+
+  margin-top: 25px;
+  color: white;
+  float: left;
+  margin-right: 40px;
+  font-size: 16px;
+}

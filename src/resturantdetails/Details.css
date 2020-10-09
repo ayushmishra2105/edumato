@@ -1,0 +1,113 @@
+.details {
+  margin-top: 40px;
+}
+.overview {
+  font-size: 25px;
+  margin-right: 70px;
+  float: left;
+  color: #192f60;
+  font-weight: bold;
+}
+.Contact {
+  color: #192f60;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.overview-hr {
+  float: left;
+  width: 100%;
+  border: 2px solid grey;
+}
+.divider {
+  margin-top: 20px;
+}
+
+/* phone */
+.phone {
+  margin-top: 30px;
+}
+.phone-heading {
+  font-size: 20px;
+  color: #192f60;
+  font-weight: bold;
+}
+.phone-number {
+  font-size: 20px;
+  font-weight: bold;
+  color: #f67082;
+  margin-top: 15px;
+}
+
+/* address */
+.address {
+  margin-top: 30px;
+  width: 300px;
+  margin-bottom: 40px;
+}
+.address-heading {
+  color: #192f60;
+  font-size: 20px;
+  font-weight: bold;
+}
+.address-content {
+  color: grey;
+  font-size: 16px;
+  font-weight: 600;
+  margin-top: 15px;
+}
+.tabs {
+  font-family: arial;
+  width: 70%;
+  margin-top: 30px;
+  max-width: 1000px;
+}
+
+.imgla {
+  width: 300px;
+}
+
+.tab-buttons {
+  margin-bottom: 50px;
+}
+
+button {
+  margin-right: 15px;
+  font-size: 18px;
+  background: transparent;
+  border: none;
+  outline: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  color: rgba(0, 0, 0, 0.4);
+  transition: all ease-in-out 0.2s;
+  border-bottom: 2px solid transparent;
+}
+.active {
+  border-bottom: 3px solid red;
+  color: black;
+}
+.about_place {
+  color: #192f60;
+  font-size: 20px;
+  font-weight: bold;
+}
+.about_cuisine {
+  font-size: 20px;
+  font-weight: bold;
+  color: #f67082;
+  margin-top: 15px;
+}
+.about_cuisine_a {
+  color: grey;
+  font-size: 16px;
+  font-weight: 600;
+  margin-top: 15px;
+}
+.about_cost {
+  color: #192f60;
+  font-size: 16px;
+  font-weight: 600;
+  margin-top: 15px;
+  margin-bottom: 20px;
+}

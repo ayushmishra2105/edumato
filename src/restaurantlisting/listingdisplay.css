@@ -1,0 +1,140 @@
+.Cost-For-Two {
+  height: 45px;
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 3.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #192f60;
+  margin-left: 7%;
+}
+
+.rest_name {
+  width: 100%;
+  height: 43px;
+  font-family: Poppins;
+  font-size: 25px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2;
+  letter-spacing: normal;
+  text-align: left;
+  color: #192f60;
+}
+
+.Image {
+  width: 120px;
+  height: 120px;
+  border-radius: 23px;
+  background-color: #ea6060;
+  margin-left: 5%;
+}
+.Item {
+  width: 875px;
+  height: 291px;
+  box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+  background-color: #ffffff;
+  margin-bottom: 20px;
+}
+
+.city_name {
+  width: 100%;
+  height: 23px;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2.4;
+  letter-spacing: normal;
+  text-align: left;
+  color: #192f60;
+}
+
+.address-text {
+  width: 100%;
+  height: 23px;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2.88;
+  letter-spacing: normal;
+  text-align: left;
+  color: #636f88;
+}
+
+.CUISINES-COST-FOR-TWO {
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.88;
+  letter-spacing: normal;
+  text-align: left;
+  color: #636f88;
+  padding-left: 25%;
+}
+
+.Bakery-700 {
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.88;
+  letter-spacing: normal;
+  text-align: left;
+  color: #192f60;
+}
+@media only screen and (max-width: 1000px) {
+  .Item {
+    width: 700px;
+    height: 400px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    background-color: #ffffff;
+    margin-bottom: 20px;
+  }
+  .CUISINES-COST-FOR-TWO {
+    visibility: hidden;
+  }
+  .city_name {
+    text-align: center;
+    margin-left: 30px;
+  }
+  .address-text {
+    text-align: center;
+  }
+  .Bakery-700 {
+    text-align: center;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .Item {
+    width: 500px;
+    height: 400px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    background-color: #ffffff;
+    margin-bottom: 20px;
+  }
+  .CUISINES-COST-FOR-TWO {
+    visibility: hidden;
+  }
+  .city_name {
+    text-align: center;
+    margin-left: 30px;
+  }
+  .address-text {
+    text-align: center;
+  }
+  .Bakery-700 {
+    text-align: center;
+    margin-top: 30px;
+  }
+}

@@ -1,0 +1,24 @@
+.order {
+  margin-top: 25px;
+  color: white;
+  font-weight: bold;
+  float: left;
+  font-size: 16px;
+  margin-right: 50px;
+}
+.cart {
+  margin-top: 25px;
+  color: white;
+  font-weight: bold;
+  float: left;
+  font-size: 16px;
+  margin-right: 40px;
+}
+.signout {
+  margin-top: 25px;
+  color: white;
+  font-weight: bold;
+  float: left;
+  font-size: 16px;
+  margin-right: 30px;
+}

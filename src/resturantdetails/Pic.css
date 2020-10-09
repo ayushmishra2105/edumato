@@ -1,0 +1,26 @@
+.imageGallery {
+  color: #192f60;
+  font-size: 18px;
+  font-weight: bold;
+  position: absolute;
+  bottom: 45px;
+  right: 40px;
+  background-color: white;
+  opacity: 0.7;
+  padding: 12px;
+  font-weight: bold;
+}
+
+.Resturant-img-holder {
+  position: relative;
+  max-width: 1000px;
+}
+
+.Resturant-title-holder {
+  font-size: 35px;
+  color: #192f60;
+  font-weight: bold;
+  line-height: 45px;
+  margin-top: 40px;
+  max-width: 1000px;
+}
